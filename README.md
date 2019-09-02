@@ -1,7 +1,6 @@
 # Interesting passages
 
 - (་་་)སྙིང་འདོད་པ།
-    
     ![1.png](./imgs/1.png) 
     
     page: [line 6](https://www.tbrc.org/browser/ImageService?work=W23703&igroup=1525&image=537&first=532&last=538&fetchimg=yes)
